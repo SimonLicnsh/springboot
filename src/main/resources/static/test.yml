@@ -1,0 +1,9 @@
+currency:
+  dataSource:
+    currency1:
+      localIp: 127.0.0.1
+      outerIp: 172.16.42.81
+    currency2:
+      localIp: 10.0.2.158
+      outerIp: 172.16.40.26
+
